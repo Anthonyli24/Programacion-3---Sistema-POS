@@ -7,7 +7,7 @@ El sistema POS está diseñado para optimizar las operaciones diarias en un Mini
 ## Integrantes del Proyecto
 
 - **Sebastián Álvarez Gómez**
-- **Esteban Cruz**
+- **Esteban Sanchez Sanchez**
 - **Anthony Li Perera**
 
 ## Funcionalidades
