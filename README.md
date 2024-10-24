@@ -2,7 +2,7 @@
 
 Este proyecto es una implementación en Java de un sistema de Punto de Venta (POS) diseñado para operar en un "MiniSuper". Facilita la facturación de compras y gestiona el catálogo de productos, la lista de clientes, los cajeros y el historial de facturación.
 
-El sistema POS está diseñado para optimizar las operaciones diarias en un MiniSuper, proporcionando una interfaz gráfica de usuario (GUI) tipo Swing. La persistencia de datos se lleva a cabo utilizando una base de datos en MySQL. Además, el sistema sigue una arquitectura en capas y aplica el patrón Modelo-Vista-Controlador (MVC). Este proyecto fue realizado como parte del curso de programación III de la Universidad Nacional de Costa Rica.
+El sistema POS está diseñado para optimizar las operaciones diarias en un MiniSuper, proporcionando una interfaz gráfica de usuario (GUI) tipo Swing. La persistencia de datos se lleva a cabo utilizando una base de datos en MySQL. Además, el sistema sigue una arquitectura en capas y aplica el patrón Modelo-Vista-Controlador (MVC). Este proyecto fue realizado como parte del curso de programación III de la Universidad Nacional de Costa Rica(UNA).
 
 ## Integrantes del Proyecto
 
